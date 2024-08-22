@@ -4,7 +4,7 @@
 - 💞️ I have youtube & telegram channel ...
 - 📫 How to reach me ...
 - 😄 telegram link: https://t.me/yaarokayaar1110
-- ⚡ Youtube Channel: Yaaro ka Yaar
+- ⚡ Youtube Channel: https://www.youtube.com/channel/UC5WQB5AHXpiV8p4itWgyanA?sub_confirmation=1
 
 <!---
 Yaarokayaar1110/Yaarokayaar1110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
